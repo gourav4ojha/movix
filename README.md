@@ -1,4 +1,4 @@
 moviex is a
 movies reating platform
-created with html css
+developed with html css
 and javascript
